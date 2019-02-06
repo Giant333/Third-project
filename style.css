@@ -390,15 +390,11 @@ h1 {
     display: flex;
 }
 .image-rectangle {  
-    width: 20px;
-    height: 120px;
-    margin: 23px 16px 26px 43px;
-    background-color: #00BFF3;
+    margin-left: 43px;
+    border-left: 8px solid #00BFF3;
+    padding-left: 16px;
 }
-.block-text-4-main {
-    margin-top: 36px;
-    margin-bottom: 36px;
-}
+
 .block-text-5 {
     padding-bottom: 10px;
 }
