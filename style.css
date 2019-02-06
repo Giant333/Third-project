@@ -354,14 +354,7 @@ header p,
     font-size: 20px;
     text-decoration-color: #CB0000;
 }
-/* .block-text-1 {
-    font-family: Trebuchet MS;
-    line-height: 52px;
-    font-size: 50px;
-    width: 1040px;
-    margin: auto;
-    
-} */
+
 h1 {
     font-family: Trebuchet MS;
     line-height: 52px;
@@ -385,20 +378,14 @@ h1 {
 .block-text-2 {
     padding-bottom: 15px;
 }
-.block-text-2 span {
+.block-text-2 strong {
     font-weight: 600;
 }
-.block-text-3 span {
+.block-text-3 strong {
     font-size: 26px;
     font-weight: 600;
 }
-/* .block-text-3-name {
-    font-family: Arial;
-    line-height: normal;
-    font-size: 22px;
-    margin-top: 24px;
-    margin-bottom: 5px;
-} */
+
 .block-text-4 {
     display: flex;
 }
@@ -415,7 +402,7 @@ h1 {
 .block-text-5 {
     padding-bottom: 10px;
 }
-.block-text-6 span {
+.block-text-6 strong {
     font-family: Arial;
     line-height: normal;
     font-size: 16px;
